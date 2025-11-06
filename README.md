@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Mitunlny
 - 👀 I'm interested in cybersecurity (CTF), full-stack development, creative design, and digital content creation
-- 🌱 I'm currently mastering Python development, iApp Yuyu language Android development, and Unity3D game programming
+- 🌱 I'm currently mastering Python development, C development, and Unity3D game programming
 - 💞️ I'm looking to collaborate on open-source projects, CTF competitions, or creative multimedia projects
 - 📫 How to reach me: Visit my blog [https://www.czxh.top](https://www.czxh.top) or email me
 - 😄 Pronouns: He/Him
