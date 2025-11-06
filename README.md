@@ -2,7 +2,7 @@
 - 👀 I'm interested in cybersecurity (CTF), full-stack development, creative design, and digital content creation
 - 🌱 I'm currently mastering Python development, C development, and Unity3D game programming
 - 💞️ I'm looking to collaborate on open-source projects, CTF competitions, or creative multimedia projects
-- 📫 How to reach me: Visit my blog [https://www.czxh.top](https://www.czxh.top) or email me
+- 📫 How to reach me: Visit my blog [http://www.czxh.top](https://www.czxh.top) or email me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a multi-disciplinary creator skilled in:
   - Development: Frontend | Python | iApp Yuyu (Android) | Unity3D
